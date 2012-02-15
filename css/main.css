@@ -1,0 +1,16 @@
+*{
+    margin:0;
+    -webkit-user-select: none;
+    font-family: Georgia, sans-serif;
+}
+canvas{
+    cursor: crosshair;
+    border:black solid 1px;
+ }
+#clr div{
+    cursor:pointer;
+    cursor:hand;
+    width:20px;
+    height:20px;
+    float:left;
+}
